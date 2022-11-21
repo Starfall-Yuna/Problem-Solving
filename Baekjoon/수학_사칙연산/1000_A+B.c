@@ -5,7 +5,7 @@
 //백준 1000번 코드
 //풀이:: https://smary-it.tistory.com/2
 
-int main(void)
+int main()
 {
 	int a, b;
 	scanf("%d %d", &a, &b);
